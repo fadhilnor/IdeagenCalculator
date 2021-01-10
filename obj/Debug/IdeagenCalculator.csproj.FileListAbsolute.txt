@@ -1,0 +1,6 @@
+K:\GitHub\IdeagenCalculator\bin\Debug\IdeagenCalculator.exe.config
+K:\GitHub\IdeagenCalculator\bin\Debug\IdeagenCalculator.exe
+K:\GitHub\IdeagenCalculator\bin\Debug\IdeagenCalculator.pdb
+K:\GitHub\IdeagenCalculator\obj\Debug\IdeagenCalculator.csprojAssemblyReference.cache
+K:\GitHub\IdeagenCalculator\obj\Debug\IdeagenCalculator.exe
+K:\GitHub\IdeagenCalculator\obj\Debug\IdeagenCalculator.pdb
